@@ -1,0 +1,1702 @@
+{
+ "nodes": [
+  {
+   "id": "frame-1",
+   "type": "group",
+   "x": 0,
+   "y": 0,
+   "width": 2446,
+   "height": 1622,
+   "label": "Этап 1"
+  },
+  {
+   "id": "frame-2",
+   "type": "group",
+   "x": 2686,
+   "y": 0,
+   "width": 2446,
+   "height": 717,
+   "label": "Этап 2"
+  },
+  {
+   "id": "frame-3",
+   "type": "group",
+   "x": 5372,
+   "y": 0,
+   "width": 2446,
+   "height": 1312,
+   "label": "Этап 3"
+  },
+  {
+   "id": "frame-4",
+   "type": "group",
+   "x": 8058,
+   "y": 0,
+   "width": 2056,
+   "height": 1957,
+   "label": "Этап 4"
+  },
+  {
+   "id": "frame-5",
+   "type": "group",
+   "x": 10354,
+   "y": 0,
+   "width": 640,
+   "height": 532,
+   "label": "Этап 5"
+  },
+  {
+   "id": "frame-6",
+   "type": "group",
+   "x": 11234,
+   "y": 0,
+   "width": 1276,
+   "height": 1102,
+   "label": "Этап 6"
+  },
+  {
+   "id": "root",
+   "type": "text",
+   "x": -620,
+   "y": 56.0,
+   "width": 400,
+   "height": 120,
+   "text": "**Маршрут ML 2026**\n45 недель по роадмапу Яна Шмидта\nHyperskill · статусы на 6 ноября 2026",
+   "color": "6"
+  },
+  {
+   "id": "stage-1",
+   "type": "text",
+   "x": 56,
+   "y": 56,
+   "width": 440,
+   "height": 120,
+   "text": "**1. База**\nнедели 1–6",
+   "color": "5"
+  },
+  {
+   "id": "lane-1-Математика: алгебра и анализ",
+   "type": "text",
+   "x": 120,
+   "y": 226,
+   "width": 320,
+   "height": 28,
+   "text": "#### Математика: алгебра и анализ"
+  },
+  {
+   "id": "m-pre",
+   "type": "text",
+   "x": 120,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**Нотация и пререквизиты**\nнед. 1 · пройдено 8 из 14\n• Запись суммирования и произве…\n• Символ принадлежности\n• Обозначение векторов\n• Сильно меньше/больше\n  и ещё 15",
+   "color": "3"
+  },
+  {
+   "id": "m-la",
+   "type": "text",
+   "x": 510,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**Линейная алгебра**\nнед. 1–2 · пройдено 0 из 19\n• Числа\n• Векторные пространства\n• Элементарные преобразования н…\n• Определитель матрицы\n  и ещё 20",
+   "color": "3"
+  },
+  {
+   "id": "m-calc1",
+   "type": "text",
+   "x": 900,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**Множества, функции, пределы**\nнед. 2 · пройдено 0 из 7\n• Множества и принадлежность\n• Операции над множествами\n• Функция одной переменной\n• Функции нескольких переменных\n  и ещё 3",
+   "color": "3"
+  },
+  {
+   "id": "m-calc2",
+   "type": "text",
+   "x": 1290,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**Производные и градиент**\nнед. 2 · пройдено 0 из 4\n• Производные функций одной пер…\n• Производные функций нескольки…\n• Аппроксимация функции\n• Гладкость функции\n  и ещё 2"
+  },
+  {
+   "id": "m-norm",
+   "type": "text",
+   "x": 1680,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**Метрика и норма**\nнед. 2 · пройдено 0 из 2\n• Метрика (расстояние)\n• Норма"
+  },
+  {
+   "id": "m-opt",
+   "type": "text",
+   "x": 2070,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**Оптимизация и градиентный спуск**\nнед. 4 · пройдено 0 из 3\n• Постановка задачи оптимизации\n• Градиентный спуск\n• Проблемы градиентного спуска\n• Принцип максимума правдоподоб…"
+  },
+  {
+   "id": "lane-1-Математика: вероятность и статистика",
+   "type": "text",
+   "x": 120,
+   "y": 536,
+   "width": 320,
+   "height": 28,
+   "text": "#### Математика: вероятность и статистика"
+  },
+  {
+   "id": "m-prob",
+   "type": "text",
+   "x": 120,
+   "y": 576,
+   "width": 320,
+   "height": 210,
+   "text": "**Вероятность и случайные величины**\nнед. 3 · пройдено 11 из 14\n• Типы случайных величин\n• Функция вероятности\n• Плотность распределения\n• Сравнение дискретных и непрер…\n  и ещё 10",
+   "color": "3"
+  },
+  {
+   "id": "m-stat1",
+   "type": "text",
+   "x": 510,
+   "y": 576,
+   "width": 320,
+   "height": 210,
+   "text": "**Матожидание, Байес, выборки**\nнед. 3 · пройдено 3 из 14\n• Математическое ожидание\n• Дисперсия\n• Среднеквадратическое отклонен…\n• Совместная вероятность\n  и ещё 10",
+   "color": "3"
+  },
+  {
+   "id": "m-ab",
+   "type": "text",
+   "x": 900,
+   "y": 576,
+   "width": 320,
+   "height": 210,
+   "text": "**Bootstrap и A/B-тесты**\nнед. 3 · пройдено 0 из 3\n• Bootstrap\n• Статистические гипотезы\n• Доверительные интервалы\n• Ошибки первого и второго рода\n  и ещё 3"
+  },
+  {
+   "id": "m-stat2",
+   "type": "text",
+   "x": 1290,
+   "y": 576,
+   "width": 320,
+   "height": 210,
+   "text": "**Квантили, корреляция, ЦПТ**\nнед. 4 · пройдено 0 из 9\n• Квантили\n• Многомерное нормальное распре…\n• Центральная предельная теорем…\n• Квартили\n  и ещё 7"
+  },
+  {
+   "id": "m-ent",
+   "type": "text",
+   "x": 1680,
+   "y": 576,
+   "width": 320,
+   "height": 210,
+   "text": "**Энтропия и кросс-энтропия**\nнед. 4 · пройдено 0 из 2\n• Энтропия\n• Перекрестная энтропия"
+  },
+  {
+   "id": "lane-1-Python",
+   "type": "text",
+   "x": 120,
+   "y": 846,
+   "width": 320,
+   "height": 28,
+   "text": "#### Python"
+  },
+  {
+   "id": "p-base1",
+   "type": "text",
+   "x": 120,
+   "y": 886,
+   "width": 320,
+   "height": 210,
+   "text": "**Типы, условия, циклы**\nнед. 1 · пройдено 10 из 24\n• Что такое программирование?\n• and, or, not: логические опер…\n• Версии Python: какую использо…\n• ==, !=, is: сравнение значени…\n  и ещё 21",
+   "color": "3"
+  },
+  {
+   "id": "p-base2",
+   "type": "text",
+   "x": 510,
+   "y": 886,
+   "width": 320,
+   "height": 210,
+   "text": "**Функции, модули, файлы**\nнед. 2 · пройдено 0 из 9\n• Функции: def, *args, **kwargs…\n• Контекстный менеджер with. За…\n• import — что это такое?\n• Модуль os: работа с ОС и файл…\n  и ещё 9",
+   "color": "3"
+  },
+  {
+   "id": "p-base3",
+   "type": "text",
+   "x": 900,
+   "y": 886,
+   "width": 320,
+   "height": 210,
+   "text": "**Исключения, ООП, typing**\nнед. 3 · пройдено 0 из 10\n• Исключения: try, except, else…\n• Декораторы @classmethod, @sta…\n• filter и reduce над итерируем…\n• Встроенные исключения\n  и ещё 11"
+  },
+  {
+   "id": "p-libs",
+   "type": "text",
+   "x": 1290,
+   "y": 886,
+   "width": 320,
+   "height": 210,
+   "text": "**NumPy, pandas, matplotlib**\nнед. 4 · пройдено 0 из 4\n• numpy: базовая библиотека для…\n• pandas: анализ и работа с таб…\n• matplotlib: визуализация данн…\n• argparse: разбор аргументов к…"
+  },
+  {
+   "id": "p-algo",
+   "type": "text",
+   "x": 1680,
+   "y": 886,
+   "width": 320,
+   "height": 210,
+   "text": "**Алгоритмы и структуры данных**\nнед. 5 · пройдено 0 из 12\n• FLOPS: терминология\n• Алгоритмическая сложность и с…\n• Основные алгоритмические подх…\n• Один проход\n  и ещё 8"
+  },
+  {
+   "id": "lane-1-Git и Linux",
+   "type": "text",
+   "x": 120,
+   "y": 1156,
+   "width": 320,
+   "height": 28,
+   "text": "#### Git и Linux"
+  },
+  {
+   "id": "g-basics",
+   "type": "text",
+   "x": 120,
+   "y": 1196,
+   "width": 320,
+   "height": 185,
+   "text": "**Git и GitHub: основы**\nнед. 1–2 · пройдено 0 из 17\n• Git\n• git status\n• git fetch и git pull\n• Просмотр истории и различий\n  и ещё 14"
+  },
+  {
+   "id": "l-basics",
+   "type": "text",
+   "x": 510,
+   "y": 1196,
+   "width": 320,
+   "height": 185,
+   "text": "**Linux: терминал и файлы**\nнед. 3 · пройдено 0 из 9\n• Linux для MLщика\n• Работа с файлами и папками\n• Справка и поиск команд\n• Пути в Linux\n  и ещё 6"
+  },
+  {
+   "id": "lane-1-Собеседование",
+   "type": "text",
+   "x": 120,
+   "y": 1441,
+   "width": 320,
+   "height": 28,
+   "text": "#### Собеседование"
+  },
+  {
+   "id": "mock-py",
+   "type": "text",
+   "x": 120,
+   "y": 1481,
+   "width": 320,
+   "height": 85,
+   "text": "**Мок-собес: Python**\nнед. 6 · контрольная точка",
+   "color": "2"
+  },
+  {
+   "id": "stage-2",
+   "type": "text",
+   "x": 2742,
+   "y": 56,
+   "width": 440,
+   "height": 120,
+   "text": "**2. Classic ML**\nнедели 7–11",
+   "color": "5"
+  },
+  {
+   "id": "lane-2-Classic ML",
+   "type": "text",
+   "x": 2806,
+   "y": 226,
+   "width": 320,
+   "height": 28,
+   "text": "#### Classic ML"
+  },
+  {
+   "id": "c-intro",
+   "type": "text",
+   "x": 2806,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**Основы ML: задачи, лоссы, метрики**\nнед. 7 · пройдено 2 из 18\n• Задача обучения с учителем\n• Выборки\n• Понятие машинного обучения и…\n• Определение классификации\n  и ещё 15",
+   "color": "3"
+  },
+  {
+   "id": "c-valid",
+   "type": "text",
+   "x": 3196,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**Валидация, регуляризация, данные**\nнед. 8 · пройдено 0 из 13\n• Кросс-валидация\n• Стратификация\n• k-Fold\n• Leave-One-Out\n  и ещё 15"
+  },
+  {
+   "id": "c-trees",
+   "type": "text",
+   "x": 3586,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**Логрегрессия, деревья, bagging**\nнед. 8 · пройдено 0 из 7\n• Логистическая регрессия\n• Решающие деревья\n• Критерии ветвления\n• Деревья для регрессии\n  и ещё 3"
+  },
+  {
+   "id": "c-boost",
+   "type": "text",
+   "x": 3976,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**Случайный лес и бустинг**\nнед. 9 · пройдено 0 из 4\n• Random Forest (случайный лес)\n• Boosting\n• Gradient Boosting (градиентны…\n• XGBoost, CatBoost, LightGBM\n  и ещё 2"
+  },
+  {
+   "id": "c-clust",
+   "type": "text",
+   "x": 4366,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**Кластеризация и KNN**\nнед. 9 · пройдено 0 из 6\n• Кластеризация\n• Метрики кластеризации\n• KMeans\n• KMedoids\n  и ещё 5"
+  },
+  {
+   "id": "c-pca",
+   "type": "text",
+   "x": 4756,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**PCA**\nнед. 10 · пройдено 0 из 1\n• Наивный байесовский классифик…\n• SVM (метод опорных векторов)\n• PCA\n• MDS\n  и ещё 3"
+  },
+  {
+   "id": "lane-2-Собеседование",
+   "type": "text",
+   "x": 2806,
+   "y": 536,
+   "width": 320,
+   "height": 28,
+   "text": "#### Собеседование"
+  },
+  {
+   "id": "mock-ml",
+   "type": "text",
+   "x": 2806,
+   "y": 576,
+   "width": 320,
+   "height": 85,
+   "text": "**Мок-собес: Classic ML**\nнед. 11 · контрольная точка",
+   "color": "2"
+  },
+  {
+   "id": "stage-3",
+   "type": "text",
+   "x": 5428,
+   "y": 56,
+   "width": 440,
+   "height": 120,
+   "text": "**3. Deep Learning и Python Advanced**\nнедели 12–17",
+   "color": "5"
+  },
+  {
+   "id": "lane-3-Deep Learning",
+   "type": "text",
+   "x": 5492,
+   "y": 226,
+   "width": 320,
+   "height": 28,
+   "text": "#### Deep Learning"
+  },
+  {
+   "id": "d-nn",
+   "type": "text",
+   "x": 5492,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**Нейросети: перцептрон и backprop**\nнед. 12 · пройдено 1 из 16\n• Модель нейрона МакКаллока-Пит…\n• Строение многослойного перцеп…\n• Функции активации\n• Прямой и обратный проход\n  и ещё 12",
+   "color": "3"
+  },
+  {
+   "id": "d-reg",
+   "type": "text",
+   "x": 5882,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**Переобучение, BatchNorm, Dropout**\nнед. 13 · пройдено 0 из 10\n• Переобучение и недообучение\n• Batch Normalization\n• Методы борьбы с недообучением\n• DropOut\n  и ещё 9"
+  },
+  {
+   "id": "d-cnn",
+   "type": "text",
+   "x": 6272,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**CNN, RNN, обучение на GPU**\nнед. 13 · пройдено 0 из 11\n• Свертка\n• Pooling\n• Взрыв и затухание градиентов\n• Остаточные связи\n  и ещё 7"
+  },
+  {
+   "id": "d-attn",
+   "type": "text",
+   "x": 6662,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**Эмбеддинги и внимание**\nнед. 14 · пройдено 0 из 9\n• Эмбеддинги (Embeddings)\n• Механизм внимания (Attention)\n• Multi-Head Attention\n• Self-Attention\n  и ещё 5"
+  },
+  {
+   "id": "d-tr",
+   "type": "text",
+   "x": 7052,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**Трансформеры**\nнед. 14 · пройдено 0 из 5\n• Трансформеры: архитектура и у…\n• Позиционное кодирование\n• Encoder-Only модели\n• Decoder-Only модели\n  и ещё 2"
+  },
+  {
+   "id": "d-arch",
+   "type": "text",
+   "x": 7442,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**Разбор архитектур**\nнед. 14 · по желанию\n• Autoencoder (2006)\n• GAN (2014)\n• Denoising Autoencoder (2008)\n• Сужающий автоэнкодер\n  и ещё 2"
+  },
+  {
+   "id": "lane-3-Python Advanced",
+   "type": "text",
+   "x": 5492,
+   "y": 536,
+   "width": 320,
+   "height": 28,
+   "text": "#### Python Advanced"
+  },
+  {
+   "id": "p-adv1",
+   "type": "text",
+   "x": 5492,
+   "y": 576,
+   "width": 320,
+   "height": 210,
+   "text": "**Модули, логи, copy, GIL**\nнед. 13–16 · пройдено 0 из 7\n• Про пакеты и модули\n• Конструкторы и деструкторы\n• GIL (Global Interpreter Lock)\n• Алгоритмическая сложность\n  и ещё 13"
+  },
+  {
+   "id": "p-adv2",
+   "type": "text",
+   "x": 5882,
+   "y": 576,
+   "width": 320,
+   "height": 210,
+   "text": "**dataclass, Pydantic, профилирование**\nнед. 17 · пройдено 0 из 11\n• Абстрактные классы (abc)\n• Профилирование\n• JSON\n• isinstance\n  и ещё 12"
+  },
+  {
+   "id": "lane-3-Git и Linux",
+   "type": "text",
+   "x": 5492,
+   "y": 846,
+   "width": 320,
+   "height": 28,
+   "text": "#### Git и Linux"
+  },
+  {
+   "id": "g-team",
+   "type": "text",
+   "x": 5492,
+   "y": 886,
+   "width": 320,
+   "height": 185,
+   "text": "**PR, форки, Git Flow**\nнед. 13 · пройдено 0 из 8\n• Клонирование и форки\n• Git Flow: модель ветвления\n• Pull Request (PR)\n• Trunk-Based Development (TBD)\n  и ещё 8"
+  },
+  {
+   "id": "l-server",
+   "type": "text",
+   "x": 5882,
+   "y": 886,
+   "width": 320,
+   "height": 185,
+   "text": "**Процессы, SSH, GPU**\nнед. 12–14 · пройдено 0 из 17\n• Мониторинг ресурсов\n• Подключение к удалённому серв…\n• GPU: nvidia-smi\n• Процессы: ps, htop, kill\n  и ещё 13"
+  },
+  {
+   "id": "lane-3-Собеседование",
+   "type": "text",
+   "x": 5492,
+   "y": 1131,
+   "width": 320,
+   "height": 28,
+   "text": "#### Собеседование"
+  },
+  {
+   "id": "mock-dl",
+   "type": "text",
+   "x": 5492,
+   "y": 1171,
+   "width": 320,
+   "height": 85,
+   "text": "**Мок-собес: Deep Learning**\nнед. 15 · контрольная точка",
+   "color": "2"
+  },
+  {
+   "id": "stage-4",
+   "type": "text",
+   "x": 8114,
+   "y": 56,
+   "width": 440,
+   "height": 120,
+   "text": "**4. Специализация: NLP, LLM, RAG, агенты**\nнедели 18–35",
+   "color": "5"
+  },
+  {
+   "id": "lane-4-NLP и LLM",
+   "type": "text",
+   "x": 8178,
+   "y": 226,
+   "width": 320,
+   "height": 28,
+   "text": "#### NLP и LLM"
+  },
+  {
+   "id": "n-classic",
+   "type": "text",
+   "x": 8178,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**Классический NLP: BoW, TF-IDF, Word2Vec**\nнед. 18–19 · пройдено 0 из 20\n• Задачи NLP\n• Подсчет совместной встречаемо…\n• Word2Vec\n• Предобработка текста\n  и ещё 16"
+  },
+  {
+   "id": "n-neural",
+   "type": "text",
+   "x": 8568,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**Нейросетевой NLP и токенизация**\nнед. 19–20 · пройдено 0 из 15\n• Классификация текстов\n• Языковое моделирование\n• Стратегии генерации текста\n• Генеративные и дискриминативн…\n  и ещё 14"
+  },
+  {
+   "id": "n-llm",
+   "type": "text",
+   "x": 8958,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**BERT, GPT, обучение LLM**\nнед. 21 · пройдено 0 из 6\n• BERT\n• Метрики оценки качества генер…\n• BERT-подобные модели\n• Этапы обучения LLM\n  и ещё 3"
+  },
+  {
+   "id": "n-adv",
+   "type": "text",
+   "x": 9348,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**MQA, GQA, ALiBi, Matryoshka**\nнед. 23–27 · пройдено 0 из 4\n• Эволюция схем внимания под да…\n• MoE: смесь экспертов\n• TRPO (2015)\n• Multi-Query Attention\n  и ещё 16"
+  },
+  {
+   "id": "n-tr",
+   "type": "text",
+   "x": 9738,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**Трансформер и длинный контекст**\nнед. 27 · пройдено 0 из 4\n• Архитектура трансформера\n• Позиционное кодирование\n• Алгоритмическая сложность вни…\n• Увеличение контекста LLM"
+  },
+  {
+   "id": "lane-4-Оптимизация LLM",
+   "type": "text",
+   "x": 8178,
+   "y": 536,
+   "width": 320,
+   "height": 28,
+   "text": "#### Оптимизация LLM"
+  },
+  {
+   "id": "o-opt",
+   "type": "text",
+   "x": 8178,
+   "y": 576,
+   "width": 320,
+   "height": 210,
+   "text": "**Квантизация, KV-cache, LoRA**\nнед. 24–26 · пройдено 0 из 14\n• Оптимизация LLM\n• Квантизация: определение\n• Speculative Decoding\n• LoRA\n  и ещё 32"
+  },
+  {
+   "id": "o-arch",
+   "type": "text",
+   "x": 8568,
+   "y": 576,
+   "width": 320,
+   "height": 210,
+   "text": "**Разбор архитектур LLM**\nнед. 21–23 · по желанию\n• RoBERTa (2019)\n• GPT-Neo (2021)\n• Chinchilla и законы масштабир…\n• Mistral 7B (2023)\n  и ещё 27"
+  },
+  {
+   "id": "lane-4-RAG и агенты",
+   "type": "text",
+   "x": 8178,
+   "y": 846,
+   "width": 320,
+   "height": 28,
+   "text": "#### RAG и агенты"
+  },
+  {
+   "id": "r-rag",
+   "type": "text",
+   "x": 8178,
+   "y": 886,
+   "width": 320,
+   "height": 210,
+   "text": "**RAG: чанки, векторный поиск, reranker**\nнед. 28 · пройдено 0 из 13\n• Определение RAG\n• Векторный поиск\n• Разновидности RAG\n• Почему именно RAG?\n  и ещё 9"
+  },
+  {
+   "id": "a-base",
+   "type": "text",
+   "x": 8568,
+   "y": 886,
+   "width": 320,
+   "height": 210,
+   "text": "**Агенты: tool calling, ReAct, LangGraph**\nнед. 33 · пройдено 0 из 16\n• Что такое LLM-агенты?\n• Chain-of-Thoughts\n• Агентные траектории\n• Structured Output (SO)\n  и ещё 13"
+  },
+  {
+   "id": "a-adv",
+   "type": "text",
+   "x": 8958,
+   "y": 886,
+   "width": 320,
+   "height": 210,
+   "text": "**Мультиагенты, MCP, контекст**\nнед. 34 · пройдено 0 из 11\n• Multiagentic Systems\n• MCP (Model Context Protocol)\n• Prompt Engineering\n• Примеры Multiagentic Systems\n  и ещё 11"
+  },
+  {
+   "id": "lane-4-Инструменты",
+   "type": "text",
+   "x": 8178,
+   "y": 1156,
+   "width": 320,
+   "height": 28,
+   "text": "#### Инструменты"
+  },
+  {
+   "id": "t-docker",
+   "type": "text",
+   "x": 8178,
+   "y": 1196,
+   "width": 320,
+   "height": 210,
+   "text": "**Docker и Compose**\nнед. 21–22 · пройдено 0 из 25\n• Контейнеризация\n• Dockerfile\n• Образ\n• Volumes\n  и ещё 21"
+  },
+  {
+   "id": "t-ci",
+   "type": "text",
+   "x": 8568,
+   "y": 1196,
+   "width": 320,
+   "height": 210,
+   "text": "**GitHub Actions и защита веток**\nнед. 21–22 · пройдено 0 из 9\n• Восстановление потерянных ком…\n• GitHub Workflow\n• Несколько workflow в проекте\n• Переиспользуемые workflow\n  и ещё 12"
+  },
+  {
+   "id": "lane-4-Карьера",
+   "type": "text",
+   "x": 8178,
+   "y": 1466,
+   "width": 320,
+   "height": 28,
+   "text": "#### Карьера"
+  },
+  {
+   "id": "k-cv",
+   "type": "text",
+   "x": 8178,
+   "y": 1506,
+   "width": 320,
+   "height": 210,
+   "text": "**Резюме, легенда, записи**\nнед. 30–32 · пройдено 0 из 11\n• Резюме\n• MLSD\n• Резюме\n• Легенда\n  и ещё 7"
+  },
+  {
+   "id": "k-mlsd",
+   "type": "text",
+   "x": 8568,
+   "y": 1506,
+   "width": 320,
+   "height": 210,
+   "text": "**ML System Design на собесе**\nнед. 31 · пройдено 0 из 8\n• Что такое MLSD\n• Главная стратегия\n• Порядок рассказа\n• Что рисовать\n  и ещё 4"
+  },
+  {
+   "id": "lane-4-Собеседование",
+   "type": "text",
+   "x": 8178,
+   "y": 1776,
+   "width": 320,
+   "height": 28,
+   "text": "#### Собеседование"
+  },
+  {
+   "id": "mock-rag",
+   "type": "text",
+   "x": 8178,
+   "y": 1816,
+   "width": 320,
+   "height": 85,
+   "text": "**Мок-собес: RAG**\nнед. 29 · контрольная точка",
+   "color": "2"
+  },
+  {
+   "id": "mock-ag",
+   "type": "text",
+   "x": 8568,
+   "y": 1816,
+   "width": 320,
+   "height": 85,
+   "text": "**Мок-собес: агенты**\nнед. 35 · контрольная точка",
+   "color": "2"
+  },
+  {
+   "id": "stage-5",
+   "type": "text",
+   "x": 10410,
+   "y": 56,
+   "width": 440,
+   "height": 120,
+   "text": "**5. Выход на рынок**\nнеделя 36",
+   "color": "5"
+  },
+  {
+   "id": "lane-5-Поиск работы",
+   "type": "text",
+   "x": 10474,
+   "y": 226,
+   "width": 320,
+   "height": 28,
+   "text": "#### Поиск работы"
+  },
+  {
+   "id": "k-job",
+   "type": "text",
+   "x": 10474,
+   "y": 266,
+   "width": 320,
+   "height": 210,
+   "text": "**HH, LinkedIn, банк вопросов**\nнед. 36 · пройдено 0 из 13\n• HH\n• LinkedIn\n• Площадки поиска работы\n• Банк вопросов\n  и ещё 9"
+  },
+  {
+   "id": "stage-6",
+   "type": "text",
+   "x": 11290,
+   "y": 56,
+   "width": 440,
+   "height": 120,
+   "text": "**6. Дополнительно**\nнедели 37–45"
+  },
+  {
+   "id": "lane-6-Рекомендации и ряды",
+   "type": "text",
+   "x": 11354,
+   "y": 226,
+   "width": 320,
+   "height": 28,
+   "text": "#### Рекомендации и ряды"
+  },
+  {
+   "id": "x-rec",
+   "type": "text",
+   "x": 11354,
+   "y": 266,
+   "width": 320,
+   "height": 185,
+   "text": "**Рекомендательные системы**\nнед. 37 · пройдено 0 из 11\n• Что такое рекомендательные си…\n• Как устроен ranking в рекомен…\n• Какие метрики используют для…\n• Зачем нужны exploration и rei…\n  и ещё 13"
+  },
+  {
+   "id": "x-ts",
+   "type": "text",
+   "x": 11744,
+   "y": 266,
+   "width": 320,
+   "height": 185,
+   "text": "**Временные ряды**\nнед. 38 · пройдено 0 из 10\n• Что такое временной ряд?\n• Что такое стационарный времен…\n• Что такое экспоненциальное сг…\n• Какие свойства есть у временн…\n  и ещё 7"
+  },
+  {
+   "id": "lane-6-MLOps",
+   "type": "text",
+   "x": 11354,
+   "y": 511,
+   "width": 320,
+   "height": 28,
+   "text": "#### MLOps"
+  },
+  {
+   "id": "x-infra",
+   "type": "text",
+   "x": 11354,
+   "y": 551,
+   "width": 320,
+   "height": 210,
+   "text": "**Kubernetes, Kafka, облака, БД**\nнед. 39–40 · пройдено 0 из 28\n• Kubernetes (k8s)\n• Что такое Apache Kafka?\n• Паттерны использования Kafka…\n• Kafka Connect: загрузка и выг…\n  и ещё 34"
+  },
+  {
+   "id": "x-exp",
+   "type": "text",
+   "x": 11744,
+   "y": 551,
+   "width": 320,
+   "height": 210,
+   "text": "**MLflow, TensorBoard, W&B, ClearML**\nнед. 41 · пройдено 0 из 16\n• Что такое MLflow?\n• Логирование экспериментов в M…\n• Что такое TensorBoard?\n• Images, histograms и embeddin…\n  и ещё 12"
+  },
+  {
+   "id": "x-mon",
+   "type": "text",
+   "x": 12134,
+   "y": 551,
+   "width": 320,
+   "height": 210,
+   "text": "**Prometheus и Grafana**\nнед. 42 · пройдено 0 из 9\n• Что такое Prometheus?\n• Инструментирование Python-сер…\n• Экспортёры: инфраструктурные…\n• Что такое Grafana?\n  и ещё 8"
+  },
+  {
+   "id": "lane-6-Computer Vision",
+   "type": "text",
+   "x": 11354,
+   "y": 821,
+   "width": 320,
+   "height": 28,
+   "text": "#### Computer Vision"
+  },
+  {
+   "id": "x-cv",
+   "type": "text",
+   "x": 11354,
+   "y": 861,
+   "width": 320,
+   "height": 185,
+   "text": "**Классическое CV**\nнед. 43 · пройдено 0 из 13\n• Изображение как объект\n• Гистограмма изображения и экв…\n• Гауссов фильтр\n• Детектор границ Канни\n  и ещё 18"
+  },
+  {
+   "id": "x-cvdl",
+   "type": "text",
+   "x": 11744,
+   "y": 861,
+   "width": 320,
+   "height": 185,
+   "text": "**CV на Deep Learning**\nнед. 44–45 · пройдено 0 из 19\n• Карта задач компьютерного зре…\n• Классификация изображений: по…\n• Детекция объектов: постановка…\n• Сегментация: семантическая, и…\n  и ещё 24"
+  },
+  {
+   "id": "x-cvarch",
+   "type": "text",
+   "x": 12134,
+   "y": 861,
+   "width": 320,
+   "height": 185,
+   "text": "**Архитектуры CV**\nнед. 45 · по желанию\n• AlexNet (2012)\n• ResNet (2015)\n• SENet (2017)\n• MobileNetV2 (2019)\n  и ещё 16"
+  },
+  {
+   "id": "here",
+   "type": "text",
+   "x": 910,
+   "y": -245,
+   "width": 300,
+   "height": 125,
+   "text": "**Ты здесь**\nЧисловые последовательности и\nпредел\nHyperskill: Limits of sequences",
+   "color": "1"
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "m-pre",
+   "fromSide": "right",
+   "toNode": "m-la",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e1",
+   "fromNode": "m-la",
+   "fromSide": "right",
+   "toNode": "m-calc1",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e2",
+   "fromNode": "m-calc1",
+   "fromSide": "right",
+   "toNode": "m-calc2",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e3",
+   "fromNode": "m-calc2",
+   "fromSide": "right",
+   "toNode": "m-norm",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e4",
+   "fromNode": "m-norm",
+   "fromSide": "right",
+   "toNode": "m-opt",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e5",
+   "fromNode": "m-prob",
+   "fromSide": "right",
+   "toNode": "m-stat1",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e6",
+   "fromNode": "m-stat1",
+   "fromSide": "right",
+   "toNode": "m-ab",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e7",
+   "fromNode": "m-ab",
+   "fromSide": "right",
+   "toNode": "m-stat2",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e8",
+   "fromNode": "m-stat2",
+   "fromSide": "right",
+   "toNode": "m-ent",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e9",
+   "fromNode": "p-base1",
+   "fromSide": "right",
+   "toNode": "p-base2",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e10",
+   "fromNode": "p-base2",
+   "fromSide": "right",
+   "toNode": "p-base3",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e11",
+   "fromNode": "p-base3",
+   "fromSide": "right",
+   "toNode": "p-libs",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e12",
+   "fromNode": "p-libs",
+   "fromSide": "right",
+   "toNode": "p-algo",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e13",
+   "fromNode": "g-basics",
+   "fromSide": "right",
+   "toNode": "l-basics",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e14",
+   "fromNode": "c-intro",
+   "fromSide": "right",
+   "toNode": "c-valid",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e15",
+   "fromNode": "c-valid",
+   "fromSide": "right",
+   "toNode": "c-trees",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e16",
+   "fromNode": "c-trees",
+   "fromSide": "right",
+   "toNode": "c-boost",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e17",
+   "fromNode": "c-boost",
+   "fromSide": "right",
+   "toNode": "c-clust",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e18",
+   "fromNode": "c-clust",
+   "fromSide": "right",
+   "toNode": "c-pca",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e19",
+   "fromNode": "d-nn",
+   "fromSide": "right",
+   "toNode": "d-reg",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e20",
+   "fromNode": "d-reg",
+   "fromSide": "right",
+   "toNode": "d-cnn",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e21",
+   "fromNode": "d-cnn",
+   "fromSide": "right",
+   "toNode": "d-attn",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e22",
+   "fromNode": "d-attn",
+   "fromSide": "right",
+   "toNode": "d-tr",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e23",
+   "fromNode": "d-tr",
+   "fromSide": "right",
+   "toNode": "d-arch",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e24",
+   "fromNode": "p-adv1",
+   "fromSide": "right",
+   "toNode": "p-adv2",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e25",
+   "fromNode": "g-team",
+   "fromSide": "right",
+   "toNode": "l-server",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e26",
+   "fromNode": "n-classic",
+   "fromSide": "right",
+   "toNode": "n-neural",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e27",
+   "fromNode": "n-neural",
+   "fromSide": "right",
+   "toNode": "n-llm",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e28",
+   "fromNode": "n-llm",
+   "fromSide": "right",
+   "toNode": "n-adv",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e29",
+   "fromNode": "n-adv",
+   "fromSide": "right",
+   "toNode": "n-tr",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e30",
+   "fromNode": "o-opt",
+   "fromSide": "right",
+   "toNode": "o-arch",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e31",
+   "fromNode": "r-rag",
+   "fromSide": "right",
+   "toNode": "a-base",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e32",
+   "fromNode": "a-base",
+   "fromSide": "right",
+   "toNode": "a-adv",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e33",
+   "fromNode": "t-docker",
+   "fromSide": "right",
+   "toNode": "t-ci",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e34",
+   "fromNode": "k-cv",
+   "fromSide": "right",
+   "toNode": "k-mlsd",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e35",
+   "fromNode": "mock-rag",
+   "fromSide": "right",
+   "toNode": "mock-ag",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e36",
+   "fromNode": "x-rec",
+   "fromSide": "right",
+   "toNode": "x-ts",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e37",
+   "fromNode": "x-infra",
+   "fromSide": "right",
+   "toNode": "x-exp",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e38",
+   "fromNode": "x-exp",
+   "fromSide": "right",
+   "toNode": "x-mon",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e39",
+   "fromNode": "x-cv",
+   "fromSide": "right",
+   "toNode": "x-cvdl",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e40",
+   "fromNode": "x-cvdl",
+   "fromSide": "right",
+   "toNode": "x-cvarch",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e41",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "stage-1",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e42",
+   "fromNode": "stage-1",
+   "fromSide": "bottom",
+   "toNode": "m-pre",
+   "toSide": "top",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e43",
+   "fromNode": "stage-1",
+   "fromSide": "bottom",
+   "toNode": "m-prob",
+   "toSide": "top",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e44",
+   "fromNode": "stage-1",
+   "fromSide": "bottom",
+   "toNode": "p-base1",
+   "toSide": "top",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e45",
+   "fromNode": "stage-1",
+   "fromSide": "bottom",
+   "toNode": "g-basics",
+   "toSide": "top",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e46",
+   "fromNode": "stage-1",
+   "fromSide": "bottom",
+   "toNode": "mock-py",
+   "toSide": "top",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e47",
+   "fromNode": "stage-1",
+   "fromSide": "right",
+   "toNode": "stage-2",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e48",
+   "fromNode": "stage-2",
+   "fromSide": "bottom",
+   "toNode": "c-intro",
+   "toSide": "top",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e49",
+   "fromNode": "stage-2",
+   "fromSide": "bottom",
+   "toNode": "mock-ml",
+   "toSide": "top",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e50",
+   "fromNode": "stage-2",
+   "fromSide": "right",
+   "toNode": "stage-3",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e51",
+   "fromNode": "stage-3",
+   "fromSide": "bottom",
+   "toNode": "d-nn",
+   "toSide": "top",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e52",
+   "fromNode": "stage-3",
+   "fromSide": "bottom",
+   "toNode": "p-adv1",
+   "toSide": "top",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e53",
+   "fromNode": "stage-3",
+   "fromSide": "bottom",
+   "toNode": "g-team",
+   "toSide": "top",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e54",
+   "fromNode": "stage-3",
+   "fromSide": "bottom",
+   "toNode": "mock-dl",
+   "toSide": "top",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e55",
+   "fromNode": "stage-3",
+   "fromSide": "right",
+   "toNode": "stage-4",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e56",
+   "fromNode": "stage-4",
+   "fromSide": "bottom",
+   "toNode": "n-classic",
+   "toSide": "top",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e57",
+   "fromNode": "stage-4",
+   "fromSide": "bottom",
+   "toNode": "o-opt",
+   "toSide": "top",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e58",
+   "fromNode": "stage-4",
+   "fromSide": "bottom",
+   "toNode": "r-rag",
+   "toSide": "top",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e59",
+   "fromNode": "stage-4",
+   "fromSide": "bottom",
+   "toNode": "t-docker",
+   "toSide": "top",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e60",
+   "fromNode": "stage-4",
+   "fromSide": "bottom",
+   "toNode": "k-cv",
+   "toSide": "top",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e61",
+   "fromNode": "stage-4",
+   "fromSide": "bottom",
+   "toNode": "mock-rag",
+   "toSide": "top",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e62",
+   "fromNode": "stage-4",
+   "fromSide": "right",
+   "toNode": "stage-5",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e63",
+   "fromNode": "stage-5",
+   "fromSide": "bottom",
+   "toNode": "k-job",
+   "toSide": "top",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e64",
+   "fromNode": "stage-5",
+   "fromSide": "right",
+   "toNode": "stage-6",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e65",
+   "fromNode": "stage-6",
+   "fromSide": "bottom",
+   "toNode": "x-rec",
+   "toSide": "top",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e66",
+   "fromNode": "stage-6",
+   "fromSide": "bottom",
+   "toNode": "x-infra",
+   "toSide": "top",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e67",
+   "fromNode": "stage-6",
+   "fromSide": "bottom",
+   "toNode": "x-cv",
+   "toSide": "top",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e68",
+   "fromNode": "m-la",
+   "fromSide": "right",
+   "toNode": "c-pca",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e69",
+   "fromNode": "m-la",
+   "fromSide": "right",
+   "toNode": "d-nn",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e70",
+   "fromNode": "m-calc2",
+   "fromSide": "right",
+   "toNode": "m-opt",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e71",
+   "fromNode": "m-opt",
+   "fromSide": "right",
+   "toNode": "d-nn",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e72",
+   "fromNode": "m-opt",
+   "fromSide": "right",
+   "toNode": "c-boost",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e73",
+   "fromNode": "m-norm",
+   "fromSide": "right",
+   "toNode": "c-clust",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e74",
+   "fromNode": "m-norm",
+   "fromSide": "right",
+   "toNode": "c-valid",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e75",
+   "fromNode": "m-stat1",
+   "fromSide": "right",
+   "toNode": "c-intro",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e76",
+   "fromNode": "m-stat2",
+   "fromSide": "right",
+   "toNode": "c-pca",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e77",
+   "fromNode": "m-ent",
+   "fromSide": "right",
+   "toNode": "c-trees",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e78",
+   "fromNode": "m-ab",
+   "fromSide": "right",
+   "toNode": "k-mlsd",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e79",
+   "fromNode": "p-libs",
+   "fromSide": "right",
+   "toNode": "c-intro",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e80",
+   "fromNode": "p-algo",
+   "fromSide": "left",
+   "toNode": "mock-py",
+   "toSide": "right",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e81",
+   "fromNode": "c-valid",
+   "fromSide": "right",
+   "toNode": "d-reg",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e82",
+   "fromNode": "d-attn",
+   "fromSide": "right",
+   "toNode": "r-rag",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e83",
+   "fromNode": "d-tr",
+   "fromSide": "right",
+   "toNode": "n-llm",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e84",
+   "fromNode": "d-tr",
+   "fromSide": "right",
+   "toNode": "n-adv",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e85",
+   "fromNode": "n-llm",
+   "fromSide": "left",
+   "toNode": "o-opt",
+   "toSide": "right",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e86",
+   "fromNode": "n-llm",
+   "fromSide": "left",
+   "toNode": "r-rag",
+   "toSide": "right",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e87",
+   "fromNode": "r-rag",
+   "fromSide": "right",
+   "toNode": "a-base",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e88",
+   "fromNode": "l-server",
+   "fromSide": "right",
+   "toNode": "t-docker",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e89",
+   "fromNode": "g-team",
+   "fromSide": "right",
+   "toNode": "t-ci",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e90",
+   "fromNode": "t-docker",
+   "fromSide": "right",
+   "toNode": "k-mlsd",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e91",
+   "fromNode": "k-cv",
+   "fromSide": "right",
+   "toNode": "k-job",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e92",
+   "fromNode": "k-mlsd",
+   "fromSide": "right",
+   "toNode": "k-job",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "color": "6",
+   "label": "нужно для"
+  },
+  {
+   "id": "e93",
+   "fromNode": "here",
+   "fromSide": "bottom",
+   "toNode": "m-calc1",
+   "toSide": "top",
+   "toEnd": "arrow"
+  }
+ ]
+}
